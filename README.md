@@ -18,7 +18,7 @@ A WordPress plugin that downloads all media library images, re-uploads them, opt
 
 Re-uploaded images displayed in a clean grid layout:
 
-![preview](https://via.placeholder.com/600x300?text=Grid+Preview)
+![preview](https://drive.google.com/file/d/11Fr6B7xCSm_FGzBUpPjA9_9Yt2OiXk4k/view?usp=sharing)
 
 ## 🚀 Installation
 
@@ -32,9 +32,8 @@ Displays author image, GitHub profile link, and social media buttons.
 
 ## 🧑 Author
 
-**Your Name**  
-📘 [GitHub Pages](https://your-github-username.github.io)  
-🔗 [GitHub](https://github.com/your-github-username)
+**Samarjit Kashyp**   
+🔗 [GitHub](https://github.com/Samarjitkashyp)
 
 ## 📜 License
 
