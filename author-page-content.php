@@ -2,13 +2,13 @@
 // Example author data — you can add more authors or change details here
 $authors = [
     [
-        'name'       => 'Your Name',
+        'name'       => 'Samarjit Kashyp',
         'image'      => 'https://avatars.githubusercontent.com/u/0000000?v=4', // Replace with your actual GitHub avatar URL or any image URL
-        'github'     => 'https://github.com/your-github-username',
+        'github'     => 'https://github.com/Samarjitkashyp/',
         'social'     => [
-            'twitter'  => 'https://twitter.com/yourtwitter',
-            'linkedin' => 'https://linkedin.com/in/yourlinkedin',
-            'facebook' => 'https://facebook.com/yourfacebook',
+            'twitter'  => 'https://x.com/KashypSama57951',
+            'linkedin' => 'https://www.linkedin.com/in/samarjit-das-542489284/',
+            'facebook' => 'https://www.facebook.com/samarjit78789',
         ],
     ],
     // Add more authors here if needed
